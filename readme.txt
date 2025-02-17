@@ -1,11 +1,3 @@
-Project name: crud api development using nodejs, express js and mongodb
-Poject author: thewebsources
-website-name: https://thewebsources.com/
-Youtube-channel: https://www.youtube.com/@thewebsources
-Video-link: https://youtu.be/xKuCTuWIOQw
-
-=========================================================================
-
 steps to run crud api Project
 =============================
 
